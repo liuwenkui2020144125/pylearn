@@ -1,5 +1,0 @@
-txt = "X-DSPAM-Confidence:0.8475"
-count = txt.find('0')         #找到0字符所在的位置
-result = txt[count:]          #截取字符串
-ans = float(result)           #强制类型转换
-print(ans
