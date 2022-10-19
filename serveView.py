@@ -47,7 +47,6 @@ def startClient():
 	dataSocket.close()
 
 
-
 app = QApplication([])
 window = QMainWindow()
 window.resize(500, 300)
